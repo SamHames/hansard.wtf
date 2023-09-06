@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The longer I live, the more beautiful life becomes
+title:  "'quote about long haired communist hippies etc'"
 description:
-date: 2019-10-14 15:01:35 +0300
-author: nolan
-image: '/images/15.jpg'
-video_embed: https://www.youtube.com/embed/4Z9mUjtFJYY
-tags: [video, productivity]
-tags_color: '#618770'
+date:   2021-05-11 15:01:35 +0300
+author: 
+image:  '/images/hansard.jpg'
+tags:   [education]
+tags_color: '#0056fe'
+featured: false
 ---
 In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 

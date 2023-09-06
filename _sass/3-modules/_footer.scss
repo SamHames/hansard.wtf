@@ -1,6 +1,12 @@
 /* Footer */
+.footer {
+  background-color: var(--background-alt-color);
+  margin-top: 40px;
+}
+
+
 .footer__inner {
-  padding: 80px 0;
+  padding: 60px 0 0px 0;
   border-bottom: 1px solid var(--background-alt-color);
 
   &.is-border-top {
@@ -48,7 +54,7 @@
 }
 
 .widget-info__desc {
-  max-width: 380px;
+  max-width: max;
   color: var(--text-alt-color);
 
   @media only screen and (max-width: $desktop) {
@@ -82,7 +88,7 @@
     display: flex;
     align-items: center;
     padding: 4px;
-    font-size: 22px;
+    font-size: 34px;
     color: var(--heading-font-color);
 
     &:hover {

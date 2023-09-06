@@ -39,7 +39,7 @@
 
     .article__excerpt {
       max-width: 500px;
-      margin-bottom: 32px;
+      margin-bottom: 0px;
     }
 
     @media only screen and (max-width: $wide) {
@@ -74,7 +74,7 @@
 
       .article__excerpt {
         max-width: 100%;
-        margin-bottom: 24px;
+        margin-bottom: 0px;
       }
     }
 
@@ -218,7 +218,7 @@
 
 .article__excerpt {
   display: -webkit-box;
-  margin-bottom: 24px;
+  margin-bottom: 0px;
   font-size: 16px;
   color: var(--text-alt-color);
   overflow-y: hidden;
@@ -280,6 +280,6 @@
 .article__date {
   font-size: 13px;
   line-height: 16px;
-  font-weight: 400;
+  font-weight: bold;
   color: var(--text-alt-color);
 }

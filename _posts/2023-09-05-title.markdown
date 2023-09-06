@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  The road to success and the road to failure are almost exactly the same
-date:   2021-09-04 15:01:35 +0300
-author: alena
-image:  '/images/23.jpg'
-tags:   [italy, travel]
-tags_color: '#64655f'
+title: "'some weird out of context quote'"
+description: The description of your blog post is around 210 characters long! If you go over this length it will be truncated. This is also what shows up in the social card preview, so use it wisely.
+date: 2023-09-05 15:01:35 +0300
+author: 
+image: '/images/senate_default.jpg'
+tags: [insults,education]
+tags_color: '#0056fe'
+featured: false
 ---
 In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 

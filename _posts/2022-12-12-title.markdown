@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  Love the life you live. Live the life you love
+title:  "'quote about why women shouldn't vote"
 description:
-date:   2021-11-10 15:01:35 +0300
-author: alena
-image:  '/images/09.jpg'
-tags:   [lifestyle]
-tags_color: '#b25642'
+date:   2022-12-12 15:01:35 +0300
+author: 
+image:  '/images/hor_default.jpg'
+tags_color: '#0056fe'
+tags:   [women, voting]
+featured: false
 ---
 In operant conditioning, a reinforcement (by reward) or instead a punishment is given after a given behavior, changing the frequency and/or form of that behavior. Stimulus present when the behavior/consequence occurs come to control these behavior modifications.
 

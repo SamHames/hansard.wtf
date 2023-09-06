@@ -1,4 +1,3 @@
-<!-- begin footer -->
 <footer class="footer">
   <div class="container">
     <div class="row">
@@ -6,7 +5,7 @@
 
         <div class="footer__inner{% if site.data.settings.mailchimp__settings.enable != true %} is-border-top{% endif %}">
           <div class="row">
-            <div class="col col-4 col-d-12">
+            <div class="col col-2 col-d-12">
               <div class="widget-footer widget-info">
                 <h3 class="widget-info__title">{{site.data.settings.title}}</h3>
                 <p class="widget-info__desc">{{site.data.settings.footer__description}}</p>
@@ -23,11 +22,33 @@
                   </ul>
                 </div>
                 {% endif %}
+
+                
     
               </div>
             </div>
+
+            <div class="col col-2 col-d-12">
+              <div class="widget-footer">
+                <div class="widget-info">
+                  {% if site.data.settings.mailchimp__settings.mailchimp__title %}
+                    <h3 class="widget-info__title">{{ site.data.settings.mailchimp__settings.mailchimp__title }}</h3>
+                  {% endif %}
+                  {% if site.data.settings.mailchimp__settings.mailchimp__description %}
+                    <p class="widget-info__desc">{{ site.data.settings.mailchimp__settings.mailchimp__description }}</p>
+                  {% endif %}
+                </div>
+                <div class="subscribe__content subscribe__inner">
+                <form class="subscribe-form validate"
+                  action="{% if site.data.settings.mailchimp__settings.mailchimp__identifier %}//{{site.data.settings.mailchimp__settings.mailchimp__identifier}}{% else %}#{% endif %}" method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+                  <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
+                  <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="{% if site.data.settings.mailchimp__settings.mailchimp__input__text %}{{ site.data.settings.mailchimp__settings.mailchimp__input__text }}{% else %}Email address{% endif %}">
+                  <button class="button button--primary button--big subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ site.data.settings.mailchimp__settings.mailchimp__button__text }}</button>
+                </form>
+              </div> </div>
+            </div>
     
-            <div class="col col-6 col-d-12">
+            <!-- <div class="col col-6 col-d-12">
               <div class="widget-footer widget-recent-posts">
                 <h3 class="widget-recent-posts__title">Recent posts</h3>
                 {% for post in site.posts limit:2 %}
@@ -72,9 +93,9 @@
                 </div>
                 {% endfor %}
               </div>
-            </div>
+            </div> -->
 
-            <div class="col col-2 col-d-12">
+            <!-- <div class="col col-2 col-d-12">
               <div class="widget-footer widget-nav">
                 <h3 class="widget-nav__title">Menu</h3>
                 <ul class="widget-nav__list list-reset">
@@ -85,14 +106,14 @@
                   {% endfor %}
                 </ul>
               </div>
-            </div>
+            </div> -->
 
           </div>
         </div>
 
         <div class="footer__info">
           <div class="footer__info-box">
-            <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.data.settings.title}}</a>. Crafted & Designed by <a href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
+            <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/blog">{{site.data.settings.title}}</a>.</div>
             <div class="top" title="Top"><i class="ion ion-ios-arrow-round-up"></i></div>
           </div>
         </div>
@@ -101,4 +122,4 @@
     </div>
   </div>
 </footer>
-<!-- end footer -->
+<!-- end footer
