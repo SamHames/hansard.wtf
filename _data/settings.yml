@@ -99,10 +99,9 @@ footer__description: Interesting things found in the Proceedings of the Australi
 
 # Social Links
 social:
-- {icon: "linkedin", link: "https://twitter.com"}
-- {icon: "linkedin", link: "https://facebook.com"}
-- {icon: "linkedin", link: "https://codepen.io"}
-- {icon: "linkedin", link: "https://pinterest.com"}
+- {icon: "square", link: "https://bsky.app/profile/hansardwtf.bsky.social"}
+- {icon: "circle", link: "https://aus.social/@hansardwtf"}
+- {icon: "linkedin", link: "https://linkedin.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
