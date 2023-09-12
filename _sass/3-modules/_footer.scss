@@ -272,3 +272,7 @@
     background: var(--button-background-hover);
   }
 }
+
+.ion-logo-square::before {
+  content: "<ion-icon name="square"></ion-icon>";
+}
