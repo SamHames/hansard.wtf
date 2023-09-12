@@ -261,7 +261,8 @@
 }
 
 .article__author__name {
-  display: inline-block;
+  //display: inline-block;
+  display: none;
   margin-bottom: 6px;
   font-family: $heading-font-family;
   font-size: 14px;
