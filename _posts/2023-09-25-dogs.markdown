@@ -1,0 +1,38 @@
+---
+layout: post
+title: Instinct of dogs is better than some men’s reason
+description: The past truly is a foreign country, especially when men’s lack of reason is a reason to deny women suffrage.
+date: 2023-09-25 15:01:35 +0300
+author: 
+image: '/images/EdwardBraddon.jpg'
+tags: []
+tags_color: '#0056fe'
+featured: false
+---
+On 23rd April 1902, Tasmanian Free Trade Party MP [Sir Edward Braddon](https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22handbook%2Fallmps%2FJRR%22;querytype=;rec=0){:target="_blank"} argued in the House against women’s suffrage. He made a series of claims to reason that men’s lack of capability was core to why women should not be allowed to vote (adding a #notallmen caveat).
+
+> The instinct of some dogs is better than some men’s reason; but I would not generalize in that way, and say that every woman’s instinct is better than every man’s reason.
+
+In opposition to the Franchise Bill, and in an argument with Nationalist Party MP [Josiah Thomas](https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id%3A%22handbook%2Fallmps%2FK8L%22;querytype=;rec=0){:target="_blank"}, Braddon lays it on thick with his best Madonna and child rhetoric that “women [were not] inferior to men in any respect” and that he “look[ed] upon them as elevated above us in nearly every thing (sic) that is most valuable and of the best in nature”. He then compared women to race horses with the dazzling logic that “One does not put a high-mettled racer into the plough to plough one’s fields, not because that racer is inferior” but, he reminds the House, of “value…greatly above the plough-horse”. 
+
+And it gets even cringier.
+
+![cringe]({{site.baseurl}}/images/cringe.jpg)
+
+When Thomas accuses Braddon of denying the women the vote but subjecting her to the slavery of waiting on men, he declares “I do not allow a woman to clean my boots. I kneel at her feet and metaphorically kiss them, boots and all.”
+
+I guess Braddon quite liked the Romantic poets who always carried on like this.
+
+After we’ve been all soaked in saccharin he changes gear and we get to the bottom of Braddon’s performance as the world’s greatest lover of women.
+
+He believed in one man one vote. But giving women the vote would give one married man two votes: “A bachelor will have his one vote. The married man, happy in his family, whose wife’s vote is one which he can command - and most men, I think, can command their wives’ votes - will have two votes”.
+
+He also asserted that women had certain roles in society and there would be catastrophe if they were challenged: “if the wife came back home [after being at the polls] and found her baby killed, and the dinner spoiled, there would not be a moment’s peace in the family afterwards”.
+
+He does make a good point about the positioning of female suffrage at the time – and this reasoning would account for his Romantic rhetorical overkill. The supporters were claiming that women's vote would be a silver bullet for the issues the newly formed Australia and British Empire were facing at the time. They argued that having women vote would bring their superior caring instincts to the crisis of the Empire. 
+
+Little did these Ministers know the consequences of imperialism that would come, even with female enfranchisement. In just over a decade the world would be plunged into a war to end all wars that, for all intents and purposes, has lasted in some form or another until today. The virtuousness of women is a rhetorical trope that still dominates political debate, and one we should be wary of. As Shankari Chandran says about female politicians in her 2023 Miles Franklin winning novel, Chai Time in Cinnamon Gardens:
+“The only thing worse than white male privilege was white female privilege. It had the entitlement of male privilege, a heavy dose of fake empathy for the disadvantaged, and complete blindness to the intersectional nature of its own advantage.”
+
+### Sources:
+- [Commonwealth Franchise Bill](https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;adv=yes;orderBy=_fragment_number,doc_date-rev;page=3;query=Dataset%3Ahansardr,hansardr80%20Decade%3A%221900s%22%20Year%3A%221902%22%20Month%3A%2204%22%20Day%3A%2223%22;rec=10;resCount=Default){:target="_blank"}: Second Reading, 23 April 1902
