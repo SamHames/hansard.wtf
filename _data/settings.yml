@@ -102,8 +102,8 @@ social:
 - {icon: "mail.svg", link: "mailto:hansardwtf@gmail.com"}
 - {icon: "bluesky.svg", link: "https://bsky.app/profile/hansardwtf.bsky.social"}
 - {icon: "mastodon.svg", link: "https://aus.social/@hansardwtf"}
-- {icon: "instagram.svg", link: "https://hansard.wtf/images/JohnCramer.jpg"}
-- {icon: "threads.svg", link: "https://www.instagram.com/hansardwtf/"}
+- {icon: "instagram.svg", link: "https://www.instagram.com/hansardwtf/"}
+- {icon: "threads.svg", link: "https://www.threads.net/@hansardwtf"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
