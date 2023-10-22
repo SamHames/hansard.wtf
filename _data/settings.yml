@@ -99,9 +99,11 @@ footer__description: Interesting things found in the Proceedings of the Australi
 
 # Social Links
 social:
-- {icon: "md-square", link: "https://bsky.app/profile/hansardwtf.bsky.social"}
-- {icon: "md-square", link: "https://aus.social/@hansardwtf"}
-- {icon: "logo-instagram", link: "https://www.instagram.com/hansardwtf/"}
+- {icon: "md-mail", link: "mailto:hansardwtf@gmail.com"}
+- {icon: "_bluesky.png", link: "https://bsky.app/profile/hansardwtf.bsky.social"}
+- {icon: "_mastodon.svg", link: "https://aus.social/@hansardwtf"}
+- {icon: "_instagram.png", link: "https://www.instagram.com/hansardwtf/"}
+- {icon: "_threads.png", link: "https://www.instagram.com/hansardwtf/"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
